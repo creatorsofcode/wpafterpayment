@@ -15,6 +15,4 @@ parool: admin
 kasutaja: makstud
 parool: admin
 
-
-kasutaja: kylaline
-parool: admin
+kasutaja kylaline mitte sisse logind tegelane
